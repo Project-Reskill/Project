@@ -8,8 +8,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Call-Details-Microservice</name>
-	<description>InfyTel Call details Microservice</description>
+	<name>User-Microservice</name>
+	<description>InfyShop User Microservice</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
