@@ -1,7 +1,0 @@
-organization=project-reskill
-projectKey=com.infosys.infytel:InfyShop_OrderMS
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.20206
-dashboardUrl=https://sonarcloud.io/dashboard?id=com.infosys.infytel%3AInfyShop_OrderMS
-ceTaskId=AXmGCd4YBGcQEegvx3g5
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmGCd4YBGcQEegvx3g5
