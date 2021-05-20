@@ -3,5 +3,5 @@ projectKey=com.infosys.infytel:InfyShop_OrderMS
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.20206
 dashboardUrl=https://sonarcloud.io/dashboard?id=com.infosys.infytel%3AInfyShop_OrderMS
-ceTaskId=AXmF5XAO8AAvnPaiI6vt
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmF5XAO8AAvnPaiI6vt
+ceTaskId=AXmGCd4YBGcQEegvx3g5
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmGCd4YBGcQEegvx3g5
